@@ -5,7 +5,7 @@ import com.theokanning.openai.completion.CompletionRequest;
 
 public class Exemplo {
 	
-	private static final String API_KEY = "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";
+	private static final String API_KEY = "SUA CHAVE";
 
     public static void main(String[] args) {
     	
